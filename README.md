@@ -11,3 +11,6 @@
 - Download XAMPP
 - Download The Project
 - Run IT!
+
+# Live Test:
+- http://dictionary-kyrilloswalid.eb2a.com
